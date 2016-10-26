@@ -1,0 +1,9 @@
+_config_yml // 注配置文件
+db.json // 数据
+debug.log // 调试日志
+_node_mudules // nodejs 相关依赖
+package.json // 配置依赖
+scaffolds // 脚手架 - 也就是一个工具模板
+source // 存放blog正文的地方
+themes // 存放皮肤的地方
+默认访问 http://localhost:4000
